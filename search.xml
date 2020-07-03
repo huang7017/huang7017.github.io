@@ -8,7 +8,7 @@
       <link href="/2020/07/03/Arduino-thunkable/"/>
       <url>/2020/07/03/Arduino-thunkable/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="thunkable"><a href="#thunkable" class="headerlink" title="thunkable"></a>thunkable</h2><p>是一款開發APP，圖形程式語言，thunkable跟appinventor相比<br><br/>優點:<br>跨平台開發ios<br><br/>缺點:<br>目前國內thunkable教學介紹較少  </p><a id="more"></a><p>請先幫我註冊thunkable等等會用到<br><a href="https://thunkable.com/" target="_blank" rel="noopener">thunkable</a></p><h3 id="thunkable介紹"><a href="#thunkable介紹" class="headerlink" title="thunkable介紹"></a>thunkable介紹</h3><p>建立專案<br><img src="https://i.imgur.com/peYyrDh.png" alt="圖一"><br>New Project Name:是專案名稱<br>Category (Optional):類別<br><img src="https://i.imgur.com/sBHPuml.png" alt="圖二"><br>Design是設計界面區塊 ,Blocks是程式設計區塊<br><img src="https://i.imgur.com/5L65XqG.png" alt="圖三"></p><h4 id="thunkable範例運用"><a href="#thunkable範例運用" class="headerlink" title="thunkable範例運用"></a>thunkable範例運用</h4><p>先拉顆按鈕(Button)到螢幕中央以及警報元件(Alert)<br>右邊能更改他的屬性內容<br>要更改顯示的內容可以去Text那邊做更改<br><img src="https://i.imgur.com/M3YwvPP.png" alt="介面設計"><br>當按鈕元件觸發點擊就在警報器的Message內容加入Button1.text+” world”<br>顯示出訊息<br><img src="https://i.imgur.com/j29RZiI.png" alt="程式設計"><br>thunkable測試 可以點擊上方的Live Test<br>可以app測試也可以進行網頁測試很方便</p>]]></content>
       
       
       
